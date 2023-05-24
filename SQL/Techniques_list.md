@@ -1,4 +1,4 @@
-Techniques used for COVID Query:
+# Techniques used for COVID Query:
 1.	Basic Select, From, Where, Order By, Group By operation
 2.	Round(), cast(), max(),count() and sum() function
 3.	Case statement
@@ -8,7 +8,7 @@ Techniques used for COVID Query:
 7.	With CTE
 
 
-Techniques used for data cleaning:
+# Techniques used for data cleaning:
 1.	Alter table
 2.	Alter column
 3.	Inner self join for filling missing data
