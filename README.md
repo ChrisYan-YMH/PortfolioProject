@@ -17,3 +17,7 @@ There are currently 4 main types of projects.
 4. Power BI
 - Visualization, Data Cleaning with Power Query, DAX formula will be showcased in the project 
 - More details in the Power BI folder
+
+5. PredictiveAnalysis 
+- Multiple predictive models will be implemented for the forecast of Hong Kong optical retial GDP
+- Tools, like Excel and SAS has been used
