@@ -1,6 +1,6 @@
 # PortfolioProject
 There are currently 4 main types of projects.
-
+<br/><br/>
 1. DataRelatedJob
 - Using Selenium and BS4 in python for the web crawling of the data related on JOBsDB, and implement NLP in spaCy for extracting required informaiton after cleaning with pandas.
 - The web crawling part is finished, but the NLP part is still ongoing
