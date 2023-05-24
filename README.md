@@ -21,3 +21,4 @@ There are currently 4 main types of projects.
 5. PredictiveAnalysis 
 - Multiple predictive models will be implemented for the forecast of Hong Kong optical retial GDP
 - Tools, like Excel and SAS has been used
+- - More details in the PredictiveAnalysis folder
