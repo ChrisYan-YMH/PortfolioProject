@@ -5,7 +5,7 @@
 4.	Update
 5.	Set 
 6.	Isnull() function
-7.	Trim() and sibstring() function
+7.	Trim() and substring() function
 8.	Parsename() and replace() function
 9.	Add (__column__)
 10.	Case statement 
