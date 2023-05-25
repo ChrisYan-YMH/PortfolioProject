@@ -4,12 +4,19 @@
 3. How many job posts are open to FG?
 4. In general, how many years of experience for a candidate are needed?
 
-Methodology
-Source data: 
+# Methodology
+**Source data:**
+<br/>
 Ulitizing Webdriver, Selenium, BS4 and all related python packages for the web-crawling. The data collected includes the job title, employer name, working locaiton, job highlight, job description and job requirement 
 
-Data cleaning:
+<br/>
+
+**Data cleaning:**
+<br/>
 Using pandas for transforming the data into dataframe, and do some data cleanings, like removing unnecessary space data, united some words with different variations into one.
 
-Extraction of Experience and essential skills:
+<br/>
+
+**Extraction of Experience and essential skills:**
+<br/>
 This will be done by NLP in the spacy in python. Build different patterns for the entity ruler as well as the matcher for capturing the desired text
