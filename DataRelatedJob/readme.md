@@ -8,7 +8,9 @@
 **Source data:**
 <br/>
 Ulitizing Webdriver, Selenium, BS4 and all related python packages for the web-crawling. The data collected includes the job title, employer name, working locaiton, job highlight, job description and job requirement 
-
+<br/>
+*(Update: The time for the process can be shorten, which can be easily done by accessing the job link with BS4 instead of clicking the link with Webdriver that makes the process longer (because of the timeout set) )*
+<br/>
 <br/>
 
 **Data cleaning:**
