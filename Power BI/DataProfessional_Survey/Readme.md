@@ -18,3 +18,5 @@ The project is first using Power Query for cleaning the data. After all cleaning
 5. Trim
 6. Lowercase
 7. changing data type
+
+<img width="1473" alt="Screenshot 2023-05-29 110219" src="https://github.com/ChrisYan-YMH/PortfolioProject/assets/132880826/0f30cfed-fd12-434d-87fc-ded0beaa7b8d">
