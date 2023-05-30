@@ -1,4 +1,5 @@
-Dashboard Link:
+# Dashboard Link:
+<br/>
 https://public.tableau.com/app/profile/chris.yan4134/viz/CovidDashboard_16847320481010/Dashboard1
 
 # Project Aim
