@@ -11,7 +11,7 @@ There are currently 4 main types of projects.
 - More details in readme.md inside SQL folder
 
 3. Tableau
-- After pulling out data from SQL, Tableau is used for creating dashboard. The link for Tableau Public, data source and the query are in the Tableau folder 
+- Different visualization project
 - More details inside Tableau folder
 
 4. Power BI
